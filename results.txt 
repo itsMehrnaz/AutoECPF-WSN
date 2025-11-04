@@ -1,0 +1,8 @@
+=== AutoECPF Simulation Results ===
+Protocol      | FND    | Energy (J)
+--------------|--------|------------
+LEACH         | 892    | 38.2
+ECPF          | 1185   | 31.8
+AutoECPF      | 1310   | 28.9
+
+Improvement: +47% vs LEACH, +10% vs ECPF
