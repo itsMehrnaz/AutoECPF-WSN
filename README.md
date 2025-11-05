@@ -1,6 +1,6 @@
 # AutoECPF-WSN: Self-Tuning ECPF Clustering with Fuzzy Logic + Reinforcement Learning
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17526873.svg)](https://doi.org/10.5281/zenodo.17526873)
 [![Stars](https://img.shields.io/github/stars/yourusername/AutoECPF-WSN)](https://github.com/yourusername/AutoECPF-WSN)
 [![License](https://img.shields.io/github/license/yourusername/AutoECPF-WSN)](LICENSE)
 
