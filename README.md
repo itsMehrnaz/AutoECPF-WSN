@@ -1,4 +1,4 @@
-# SD-ClusterSkeleton 🌐⚡
+# SD-ClusterSkeleton
 
 > **An Energy-Efficient Hybrid SDN Framework for Wireless Sensor Networks**  
 > Combining Fuzzy Logic (ECPF) + Q-Learning RL + Software-Defined Networking
